@@ -10,6 +10,10 @@ main home screen.
 -Porfolio Page is mostly complete, might switch around a few images for better cohesion.
 -More jQuery elements were added as a toggle to see more information.
 
+Bugs to fix:
+-2 flower pictures on portfoilio (other).
+-Images load slowly, try to optimize image sizes and loading.
+
 Previous Update: (December 8th, 2022)
 -This is Version Alpha 2. Still under major development.
 -All files have been reuploaded with many changes.
