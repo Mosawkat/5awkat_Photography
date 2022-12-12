@@ -3,8 +3,15 @@ Hi welcome to 5awkat_Photography page.
 
 This site is still under construction and if you don't see any files at the time, it means they have been taken down to re-edit, and optimize for the full version of the website, which will launch very soon.
 
-Latest Update: (December 8th, 2022)
--This is Alpha.v2. Still under major development.
+Latest Update: (December 12, 2022)
+-This is Version Beta 1 for the website, as everything is being close to becoming final.
+-Added intoduction to Home page, therefore the about me section will not be added as I incorporated the elements such as my camera gear and lenses into the 
+main home screen.
+-Porfolio Page is mostly complete, might switch around a few images for better cohesion.
+-More jQuery elements were added as a toggle to see more information.
+
+Previous Update: (December 8th, 2022)
+-This is Version Alpha 2. Still under major development.
 -All files have been reuploaded with many changes.
 -All image files are now properly named and easily identifiable.
 -Portfolio page has been redone, where the images are now shown and hidden properly as needed.
@@ -17,7 +24,7 @@ Previous Update: (December 6th, 2022)
 -Some pages will be restructured and colors and shapes will change.
 
 Previous Update:
--Alpha.v1
+-Version Alpha 1.
 -Website is now live with it's first ever version.
 -Major image loading issues as image files are too large.
 -About me still missing
