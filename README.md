@@ -3,7 +3,20 @@ Hi welcome to 5awkat_Photography page.
 
 This site is still under construction and if you don't see any files at the time, it means they have been taken down to re-edit, and optimize for the full version of the website, which will launch very soon.
 
-Latest Update: (December 12, 2022)
+Lastest Update: (December 16, 2022)
+-This is version Beta 2. 
+-New Picture for the header.
+-New Contact buttons which will show my email and phone number with the toggle buttons at the end of the Home page.
+-Added some comments to the HTML sites, will add comments to the CSS and JS files as well.
+-Flower picture big is fixed.
+-Added some new pictures to balance out the two sides of some of the sports and portrait divs.
+-Changed the font of the nav bar and added color to the text when hovering.
+-The active button status now shows which button is active in the portfolio page and will deactivate other buttons when one is activated.
+
+No bugs found outright but will continue to monitor for them and add more efficiency.
+One thing I did to make pictures load much faster was instead of using the 15-30 MB files, I took a screenshot of the picture which decreases the quality but also improves the loading times, so will look to implement that in all the pictures on the website.
+
+Previous Update: (December 12, 2022)
 -This is Version Beta 1 for the website, as everything is being close to becoming final.
 -Added intoduction to Home page, therefore the about me section will not be added as I incorporated the elements such as my camera gear and lenses into the 
 main home screen.
