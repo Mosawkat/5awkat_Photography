@@ -1,0 +1,49 @@
+/* Navigation Buttons */
+.navButtons
+{
+  font-size: 35px;
+  color:black;
+  text-decoration: none;
+  padding: 1%;
+  font-family: 'Barlow', sans-serif;
+  font-family: 'DM Serif Display', serif;
+}
+/* Navigation Bar */
+.navBar
+{
+  text-align: right;
+  opacity: 1;
+}
+/* Navigation Buttons Hover */
+.navButtons:hover
+{
+  color:rgb(79, 229, 255);
+  opacity: 0.85;
+}
+/* Style the buttons */
+.switchButtons1, .switchButtons2, .switchButtons3, .switchButtons4
+{
+  font-family: 'Barlow', sans-serif;
+  font-family: 'DM Serif Display', serif;
+  font-size: 40px;
+  text-decoration: none;
+  color:black;
+  padding: 5%;
+}
+
+#nat:hover
+{
+  background-color: #d5fdd5;
+}
+#por:hover
+{
+  background-color: #ffffa0;
+}
+#spo:hover
+{
+  background-color: #faa0a0;
+}
+#oth:hover
+{
+  background-color: #df9bff;
+}
