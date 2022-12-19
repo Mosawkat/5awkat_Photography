@@ -3,7 +3,17 @@ Hi welcome to 5awkat_Photography page.
 
 This site is still under construction and if you don't see any files at the time, it means they have been taken down to re-edit, and optimize for the full version of the website, which will launch very soon.
 
-Lastest Update: (December 16, 2022)
+Lastest Update: (December 19, 2022)
+-This is version Beta 3.
+-Profile picture is now a full picture with borders made circular.
+-All the files have been renamed (again) as their categories and not their description. (How I should have done it from the beginning)
+-There are no files more than 10MB in size.
+-3 pictures in the front page has been changed.
+-Portfolio, Sports and Other has some new pictures or has been restructured.
+-Removed contact section as it didn't look right and had too many buttons.
+-Hopefully fixed issue with buttons looking different on mobile.
+
+Previous Update: (December 16, 2022)
 -This is version Beta 2. 
 -New Picture for the header.
 -New Contact buttons which will show my email and phone number with the toggle buttons at the end of the Home page.
