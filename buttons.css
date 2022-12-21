@@ -1,0 +1,208 @@
+/* Scroll Bar */
+::-webkit-scrollbar-track
+{
+	border: 0px solid rgb(0, 0, 0);
+	border-color: rgb(0, 0, 0);
+	background-color: #000000;
+}
+
+::-webkit-scrollbar
+{
+	width: 15px;
+  height: 5px;
+	background-color: #000000;
+}
+
+::-webkit-scrollbar-thumb
+{
+	background-color: rgb(255, 255, 255);
+}
+
+/* Navigation Buttons */
+.navButtons
+{
+  font-size: 35px;
+  color:black;
+  text-decoration: none;
+  padding: 1%;
+  font-family: 'Barlow', sans-serif;
+  font-family: 'DM Serif Display', serif;
+}
+/* Navigation Bar */
+.navBar
+{
+  text-align: right;
+  opacity: 1;
+}
+/* Navigation Buttons Hover */
+.navButtons:hover
+{
+  color:rgb(79, 229, 255);
+  opacity: 0.85;
+}
+/* Style the buttons */
+.switchButtons1, .switchButtons2, .switchButtons3, .switchButtons4
+{
+  font-family: 'Barlow', sans-serif;
+  font-family: 'DM Serif Display', serif;
+  font-size: 40px;
+  text-decoration: none;
+  color:black;
+  padding: 5%;
+}
+/* Hover Functions for the categories */
+#nat:hover
+{
+  background-color: #d5fdd5;
+}
+#por:hover
+{
+  background-color: #ffffa0;
+}
+#spo:hover
+{
+  background-color: #faa0a0;
+}
+#oth:hover
+{
+  background-color: #df9bff;
+}
+
+/* Main Buttons */
+.button-55, .gearToggle 
+{
+  -webkit-appearance: none;
+  align-self: center;
+  background-color: #fff;
+  background-image: none;
+  background-position: 0 90%;
+  background-repeat: repeat no-repeat;
+  background-size: 4px 3px;
+  border-radius: 15px 225px 255px 15px 15px 255px 225px 15px;
+  border-style: solid;
+  border-width: 2px;
+  box-shadow: rgba(0, 0, 0, .2) 15px 28px 25px -18px;
+  box-sizing: border-box;
+  color: #41403e;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1.2rem;
+  font-family: 'Barlow', sans-serif;
+  font-family: 'DM Serif Display', serif;
+  line-height: 23px;
+  outline: none;
+  padding: .75rem;
+  text-decoration: none;
+  transition: all 235ms ease-in-out;
+  border-bottom-left-radius: 15px 255px;
+  border-bottom-right-radius: 225px 15px;
+  border-top-left-radius: 255px 15px;
+  border-top-right-radius: 15px 225px;
+  touch-action: manipulation;
+}
+.button-55:hover, .gearToggle:hover 
+{
+  box-shadow: rgba(0, 0, 0, .3) 2px 8px 8px -5px;
+  transform: translate3d(0, 2px, 0);
+}
+.button-55:focus, .gearToggle:focus
+{
+  box-shadow: rgba(0, 0, 0, .3) 2px 8px 4px -6px;
+}
+
+/* Animations for all the pages */
+
+/* Home page animations */
+@-webkit-keyframes AnimationName 
+{
+  0%{background-position:50% 0%}
+  50%{background-position:51% 100%}
+  100%{background-position:50% 0%}
+}
+@-moz-keyframes AnimationName 
+{
+  0%{background-position:50% 0%}
+  50%{background-position:51% 100%}
+  100%{background-position:50% 0%}
+}
+@-o-keyframes AnimationName 
+{
+  0%{background-position:50% 0%}
+  50%{background-position:51% 100%}
+  100%{background-position:50% 0%}
+}
+@keyframes AnimationName 
+{
+  0%{background-position:50% 0%}
+  50%{background-position:51% 100%}
+  100%{background-position:50% 0%}
+}
+
+@keyframes fadeInUp 
+{
+  from 
+  {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+
+  to 
+  {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes backInUp 
+{
+  0% 
+  {
+    -webkit-transform: translateY(1200px) scale(0.7);
+    transform: translateY(1200px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  80% 
+  {
+    -webkit-transform: translateY(0px) scale(0.7);
+    transform: translateY(0px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  100% 
+  {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes textclip 
+{
+  to 
+  {
+    background-position: 200% center;
+  }
+}
+
+
+/*Portfolio Page */
+@keyframes fadeIn 
+{
+  0% 
+  { 
+    opacity: 0; 
+  }
+  100% 
+  { 
+    opacity: 1; 
+  }
+}
+
+@keyframes headerFade 
+{
+  0%{opacity: 0;}
+  100%{opacity: 1;}
+}
