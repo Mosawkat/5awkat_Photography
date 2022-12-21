@@ -3,7 +3,17 @@ Hi welcome to 5awkat_Photography page.
 
 This site is still under construction and if you don't see any files at the time, it means they have been taken down to re-edit, and optimize for the full version of the website, which will launch very soon.
 
-Lastest Update: (December 19, 2022)
+Lastest Update: (December 21, 2022)
+-This is version Beta 3. Next version most likely to be the release.
+-Fixed bug where sports images not showing due to uppercase names
+-Added mobile support: (much requested)
+-Index page now has a whole new layout just for mobile where my image is hidden, fonts are a little bigger, and images are laid out in a different way with index7.jpg being a mobile only image.
+-Portfolio page is now dynamic from desktop to mobile:
+-Portfolio page images will show one by one on mobile, and category names have been changed to emojis to make it stay same size without messing up the layout of the buttons. Desktop remains the same.
+-Image loading is still a problem and will need to find ways to optimize it.
+
+
+Previous Update: (December 19, 2022)
 -This is version Beta 3.
 -Profile picture is now a full picture with borders made circular.
 -All the files have been renamed (again) as their categories and not their description. (How I should have done it from the beginning)
@@ -46,12 +56,13 @@ Previous Update: (December 8th, 2022)
 -More jQuery functions and elements will be added as needed to make webpage more responsive and reduce clutter with code.
 
 Previous Update: (December 6th, 2022)
+-Version Alpha 1.
 -All files taken down as image files sizes were too large, so the new ones will be much smaller and more optimized.
 -Major functionality is being revised as I want to keep the site simple and thus removed some features.
 -Some pages will be restructured and colors and shapes will change.
 
 Previous Update:
--Version Alpha 1.
+-Version Pre-Alpha.
 -Website is now live with it's first ever version.
 -Major image loading issues as image files are too large.
 -About me still missing
