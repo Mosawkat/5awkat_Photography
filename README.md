@@ -4,7 +4,7 @@ Hi welcome to 5awkat_Photography page.
 This site is still under construction and if you don't see any files at the time, it means they have been taken down to re-edit, and optimize for the full version of the website, which will launch very soon.
 
 Lastest Update: (December 21, 2022)
--This is version Beta 3. Next version most likely to be the release.
+-This is version Beta 4. Next version most likely to be the release.
 -Fixed bug where sports images not showing due to uppercase names
 -Added mobile support: (much requested)
 -Index page now has a whole new layout just for mobile where my image is hidden, fonts are a little bigger, and images are laid out in a different way with index7.jpg being a mobile only image.
