@@ -1,9 +1,18 @@
 # 5awkat_Photography
 Hi welcome to 5awkat_Photography page.
 
-This site is still under construction and if you don't see any files at the time, it means they have been taken down to re-edit, and optimize for the full version of the website, which will launch very soon.
+Lastest Update: (January 5, 2023)
+-This is Version 1! Website has launched!
+-Image sizes has been reduced drastically where they are all under 1MB which will make loading times much faster.
+-Some text was added in the about me section.
+-Some images on index was removed and replaced with other pictures.
+-Image sizes has been scaled down a little bit.
+-In portfolio page, image sizing has changed and thus the page may look a little different.
+-Order of the menu bar has changed from Nature, Portraits, Sports and Others to Portraits, Sports, Nature and Others.
+-Some portrait images has been removed and replaced with newer ones.
+-Some sport images were also removed and replaced with newer pictures.
 
-Lastest Update: (December 21, 2022)
+Previous Update: (December 21, 2022)
 -This is version Beta 4. Next version most likely to be the release.
 -Fixed bug where sports images not showing due to uppercase names
 -Added mobile support: (much requested)
